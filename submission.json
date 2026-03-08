@@ -4,5 +4,5 @@
   "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
   "dataset_url": "https://www.unesco.org/en/articles/atlas-worlds-languages-danger",
   "insight": "Of the world's 7,168 languages, 3,082 — nearly 43% — are endangered and may fall silent within this century, each representing an irreplaceable system of human knowledge and identity.",
-  "publish_email": false
+  "publish_email": true
 }
