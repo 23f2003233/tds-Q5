@@ -1,0 +1,7 @@
+{
+  "prompt": "A phyllotaxis spiral of 7168 points of light on black, each representing a language. Warm amber dots are living languages, dim grey embers are endangered ones. Golden angle arrangement. No axes or legend.",
+  "model": "Custom Python generative art",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/en/articles/atlas-worlds-languages-danger",
+  "insight": "Nearly 43% of the world's 7168 languages are endangered and may fall silent within this century."
+}
