@@ -1,0 +1,8 @@
+{
+  "prompt": "A phyllotaxis spiral of 7168 individual points of light on a near-black background, each point representing one of the world's languages. 4086 points glow warm amber-gold with soft radial halos — living languages. 3082 points are dim grey embers, barely visible — endangered languages. Arranged using the golden angle for organic, non-chart structure. Title '3,082 voices falling silent' in faint serif type above. No axes, no legend, no chart type. The overwhelming presence of dying embers scattered throughout the living lights communicates the scale of loss emotionally.",
+  "model": "Custom Python/Pillow generative art (phyllotaxis spiral, programmatic)",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/en/articles/atlas-worlds-languages-danger",
+  "insight": "Of the world's 7,168 languages, 3,082 — nearly 43% — are endangered and may fall silent within this century, each representing an irreplaceable system of human knowledge and identity.",
+  "publish_email": false
+}
